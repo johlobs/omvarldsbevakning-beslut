@@ -1,4 +1,10 @@
 {
-  "beslut": {},
-  "sammanslagningar": {}
+ "beslut": {
+  "N605357": {
+   "beslut": "godkand",
+   "datum": "2026-11-18"
+  }
+ },
+ "sammanslagningar": {},
+ "inte_samma": {}
 }
